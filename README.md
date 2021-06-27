@@ -10,5 +10,5 @@ Hardware side- Ardruino Uno , Connecting wires , DC buck converter or lipo batte
 https://github.com/DevbyHitanshu/IVRCoviBot/blob/main/IVR%20BOT%20CODE.py - is for the bot code It calls the mobile numbers from the database and runs series of pre recorder voice for telling them to put in input, then it records the input and modifies the data into the database wiith verified
 https://github.com/DevbyHitanshu/IVRCoviBot/blob/main/Database.sql is for the database maintained
 https://github.com/DevbyHitanshu/IVRCoviBot/blob/main/Website/site.php is the backend framework for calling html on a local server and mke paths for web hosting
-https://github.com/DevbyHitanshu/IVR_CovibotWebsite/blob/main/Web%20scapping.py is the script for filtering thousands of tweets for mobile numbers and data and entering everything into the database created for the input for the bot
+https://github.com/DevbyHitanshu/IVRCoviBot/blob/main/Web%20scapping.py is the script for filtering thousands of tweets for mobile numbers and data and entering everything into the database created for the input for the bot
 https://github.com/DevbyHitanshu/IVR_CovibotWebsite/blob/main/index1.text is the homepage site
