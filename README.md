@@ -4,7 +4,10 @@ IVRCoviBot is a comprehensive solution designed to address the challenges of ver
 
 ## YouTube Demo
 
-Watch the [IVRCoviBot Demo](https://youtu.be/maVVSa-kirc?si=C7ddbIJTKHdx9TiD) for a visual walkthrough of the system.
+[![IVRCoviBot Demo](https://img.youtube.com/vi/maVVSa-kirc/0.jpg)](https://youtu.be/maVVSa-kirc?si=C7ddbIJTKHdx9TiD)
+
+Click on the image above to watch the IVRCoviBot Demo on YouTube!
+
 
 ## Key Features
 
